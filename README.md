@@ -29,10 +29,6 @@
 
 [![Malvin Eikemo GitHub Stats](https://github-readme-stats.vercel.app/api?username=malvineikemo&show_icons=true&count_private=true)](https://github.com/malvineikemo)
 
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=malvineikemo&repo=&show_owner=true)](https://github.com/malvineikemo/ungsveio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=malvineikemo&repo=&show_owner=true)](https://github.com/malvineikemo/minetd)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
