@@ -33,7 +33,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://eikemo.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-eikemo.dev.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://eikemo.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-eikemo.dev-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/malvineikemo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@malvineikemo-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/23991195/malvin-eikemo?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Malvin%20Eikemo-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:malvin.se.ei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malvin.se.ei@gmail.com-blue?style=flat&logo=gmail"></a>
